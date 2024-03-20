@@ -4,7 +4,7 @@
 所以放一些我喜欢的图片
 
 ![Image text](https://github.com/ZhaoYiCheng001/pictures/blob/main/116021105_p0.png)
-by（https://www.pixiv.net/artworks/116021105）
+by(https://www.pixiv.net/artworks/116021105)
 
 ![Image text](https://github.com/ZhaoYiCheng001/pictures/blob/main/53045051_p0.jpg)
 by(https://www.pixiv.net/artworks/53045051)
